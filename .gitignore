@@ -1,0 +1,38 @@
+tareas/HELP.md
+tareas/target/
+tareas/!.mvn/wrapper/maven-wrapper.jartareas/
+tareas/!**/src/main/**/target/
+tareas/!**/src/test/**/target/
+
+### STS ###
+tareas/.apt_generated
+tareas/.classpath
+tareas/.factorypath
+tareas/.project
+tareas/.settings
+tareas/.springBeans
+tareas/.sts4-cache
+
+### IntelliJ IDEA ###
+tareas/.idea
+tareas/*.iws
+tareas/*.iml
+tareas/*.ipr
+
+### NetBeans ###
+tareas/nbproject/private/
+tareas/nbbuild/
+tareas/dist/
+tareas/nbdist/
+tareas/.nb-gradle/
+tareas/build/
+tareas/!**/src/main/**/build/
+tareas/!**/src/test/**/build/
+
+### VS Code ###
+tareas/.vscode/
+
+
+#Frontend React
+
+tareasclientereact/node_modules
